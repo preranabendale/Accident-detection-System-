@@ -1,0 +1,10 @@
+opencv-python          # For video processing and computer vision
+numpy                  # For array / matrix operations
+matplotlib             # For plotting (optional for graphs / visualization)
+tensorflow             # If using ML / deep learning model (YOLO / CNN)
+keras                  # If your model is built with Keras
+tkinter                # For GUI (Python built-in)
+pandas                 # For logs / CSV (optional)
+pygame                 # For playing alert sounds (optional)
+smtplib                # For sending email alerts
+geopy                  # For getting location (optional)
